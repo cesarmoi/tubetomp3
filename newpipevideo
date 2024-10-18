@@ -2,9 +2,9 @@
   "control": {
    
 
-     "Showplayer": true,
+     "Showplayer": false,
     "showtrend": true,
-    "showsubscibe": true
+    "showsubscibe": false
      
  
   }
