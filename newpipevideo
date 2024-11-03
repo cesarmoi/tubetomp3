@@ -2,8 +2,8 @@
   "control": {
    
 
-     "Showplayer": false,
-    "showtrend": true,
+     "Showplayer": true,
+    "showtrend": false,
     "showsubscibe": false
      
  
