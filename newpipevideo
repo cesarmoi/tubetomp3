@@ -3,8 +3,8 @@
    
 
      "Showplayer": true,
-    "showtrend": true,
-    "showsubscibe": true
+    "showtrend": false,
+    "showsubscibe": false
      
  
   }
