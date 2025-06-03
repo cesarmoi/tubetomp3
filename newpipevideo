@@ -3,9 +3,9 @@
    
 
      "Showplayer": true,
-    "showtrend": false,
-    "showsearch": false,
-    "showsubscibe": false
+    "showtrend": true,
+    "showsearch": true,
+    "showsubscibe": true
      
  
   }
